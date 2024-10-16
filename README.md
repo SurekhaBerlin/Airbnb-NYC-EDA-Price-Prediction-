@@ -1,5 +1,9 @@
 # Airbnb-NYC-EDA-Price-Prediction
 
+
+![airbnb](https://github.com/user-attachments/assets/bb1da437-01d2-4426-aa2f-d1c49bf4d122)
+
+
 DATA : https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 
